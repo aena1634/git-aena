@@ -1,5 +1,7 @@
-print("Hello word")
-print("Ah")
-print("not good")
-print("Hello my dear friend")
-print("Glad to see you")
+
+print("Hello word;")
+print("Ah;")
+print("not good;")
+print("Hello my dear friend;")
+print("Glad to see you;")
+
